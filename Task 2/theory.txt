@@ -1,0 +1,24 @@
+Positions in CSS Assignment
+_________________________________________________________________________
+
+2. Explain the difference between absolute and relative positioning 
+
+Solution : 
+
+A.) Relative Positioning:
+
+i> Moves from Normal Flow: Element shifts from its normal position but stays in the document flow.
+
+ii> Reference Point: Positioned relative to its normal position or closest positioned ancestor.
+
+iii> Impact on Other Elements: Other elements are not affected; space is reserved.
+
+B.) Absolute Positioning:
+
+i>Removed from Flow: Element is taken out of the document flow, leaving no space.
+
+ii> Reference Point: Positioned relative to its closest positioned ancestor or initial containing block.
+
+iii> Overlapping Possible: Can overlap other elements, controlled by z-index.
+
+---------------------------------------------------------------------------------------------------------------------------
